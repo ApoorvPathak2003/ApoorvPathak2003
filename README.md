@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Do you know why computer language's are difficult to understand? Because it was written by a woman named Ada Lovelace.
 
+![](https://komarev.com/ghpvc/?username=ApoorvPathak2003)
+
 ### Language:
 ![GitHub Top Language](https://img.shields.io/github/languages/top/ApoorvPathak2003/Market-Basket-Data-Analytics)
-![GitHub Top Language](https://img.shields.io/github/languages/top/ApoorvPathak2003/Anti-Money-Laundetring-System)
 ![GitHub Top Language](https://img.shields.io/github/languages/top/ApoorvPathak2003/RedmondPie_AI_Lab_Codes)
 ![GitHub Top Language](https://img.shields.io/github/languages/top/ApoorvPathak2003/DevOps)
+![GitHub Top Language](https://img.shields.io/github/languages/top/ApoorvPathak2003/Anti-Money-Laundetring-System)
 
 ### <img src = './Passion.gif' alt = 'Passion' width = '15' height = '15'>Interests:
 1. **Book Reading**(<a href = 'https://www.goodreads.com/user/show/164208181-apoorv-gunjan-pathak'>goodreads</a>)
