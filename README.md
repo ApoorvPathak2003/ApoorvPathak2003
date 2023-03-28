@@ -1,7 +1,7 @@
-## Hello Everyonee, I am... 👋👋
+## Hello Everyonee, I'm. APOORV PATHAK... 👋👋
 
 <p align = 'center'>
-  <img src = './Apoorv Pathak.png' alt = 'Apoorv Pathak' width = '500' height = '150'>
+  <img src = './Computer Developer.gif' alt = 'Apoorv Pathak' width = '500' height = '150'>
 </p>
 
 <!--
