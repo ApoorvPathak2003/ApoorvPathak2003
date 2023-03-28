@@ -1,7 +1,7 @@
 ## Hello Everyonee, I'm. APOORV PATHAK... 👋👋
 
 <p align = 'center'>
-  <img src = './Computer Developer.gif' alt = 'Apoorv Pathak' width = '400' height = '400'>
+  <img src = './Logo/Computer Developer.gif' alt = 'Apoorv Pathak' width = '400' height = '400'>
 </p>
 
 <!--
