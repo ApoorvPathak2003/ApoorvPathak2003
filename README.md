@@ -23,11 +23,23 @@ Here are some ideas to get you started:
 ![Resume](./Apoorv Pathak - Data Scientist Intern.pdf)
 
 ### Language:
-: Python
-![GitHub Top Language](https://img.shields.io/github/languages/top/ApoorvPathak2003/Market-Basket-Data-Analytics)
-![GitHub Top Language](https://img.shields.io/github/languages/top/ApoorvPathak2003/RedmondPie_AI_Lab_Codes)
-![GitHub Top Language](https://img.shields.io/github/languages/top/ApoorvPathak2003/DevOps)
-![GitHub Top Language](https://img.shields.io/github/languages/top/ApoorvPathak2003/Anti-Money-Laundetring-System)
+<img src = './Logo/VS Code.png' alt = 'Python' width = '15' height = '15'>
+<img src = './Logo/Python.png' alt = 'Python' width = '15' height = '15'>
+<img src = './Logo/NumPy.png' alt = 'Python' width = '15' height = '15'>
+<img src = './Logo/Pandas.svg' alt = 'Python' width = '15' height = '15'>
+<img src = './Logo/MS Power BI.png' alt = 'Python' width = '15' height = '15'>
+<img src = './Logo/MS Excel.png' alt = 'Python' width = '15' height = '15'>
+<img src = './Logo/MS Powerpoint.png' alt = 'Python' width = '15' height = '15'>
+<img src = './Logo/Keras.svg' alt = 'Python' width = '15' height = '15'>
+<img src = './Logo/sklearn.svg' alt = 'Python' width = '15' height = '15'>
+<img src = './Logo/MySQL.png' alt = 'Python' width = '15' height = '15'>
+<img src = './Logo/PostgreSQL.png' alt = 'Python' width = '15' height = '15'>
+<img src = './Logo/Figma.png' alt = 'Python' width = '15' height = '15'>
+<img src = './Logo/Canva.png' alt = 'Python' width = '15' height = '15'>
+<img src = './Logo/Django.png' alt = 'Python' width = '15' height = '15'>
+<img src = './Logo/Java.png' alt = 'Python' width = '15' height = '15'>
+<img src = './Logo/HTML.png' alt = 'Python' width = '15' height = '15'>
+<img src = './Logo/CSS.png' alt = 'Python' width = '15' height = '15'>
 
 ### <img src = './Passion.gif' alt = 'Passion' width = '15' height = '15'>Interests:
 1. **Book Reading**(<a href = 'https://www.goodreads.com/user/show/164208181-apoorv-gunjan-pathak'>goodreads</a>)
