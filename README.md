@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 ### Connect Me:
 1. Medium <a href = 'https://medium.com/@apoorvnpathak'><img src = './Medium.png' alt = 'Apoorv Pathak - Medium' width = '15' height = '15'></a>
 2. LinkedIn <a href = 'https://www.linkedin.com/in/apoorv-pathak-a3b1931ba/'><img src = './LinkedIn.png' alt = 'Apoorv Pathak - LinkedIn' width = '15' height = '15'></a>
-3. Quora <a href = 'https://www.quora.com/profile/Apoorv-Gunjan-Pathak'>img src = './Quora.png' alt = 'Apoorv Pathak - Quora' width = '15' height = '15'</a>
+3. Quora <a href = 'https://www.quora.com/profile/Apoorv-Gunjan-Pathak'><img src = './Quora.png' alt = 'Apoorv Pathak - Quora' width = '15' height = '15'></a>
