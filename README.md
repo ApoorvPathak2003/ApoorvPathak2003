@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![Resume](./Apoorv Pathak - Data Scientist Intern.pdf)
 
 ### Language:
-- Python
+: Python
 ![GitHub Top Language](https://img.shields.io/github/languages/top/ApoorvPathak2003/Market-Basket-Data-Analytics)
 ![GitHub Top Language](https://img.shields.io/github/languages/top/ApoorvPathak2003/RedmondPie_AI_Lab_Codes)
 ![GitHub Top Language](https://img.shields.io/github/languages/top/ApoorvPathak2003/DevOps)
