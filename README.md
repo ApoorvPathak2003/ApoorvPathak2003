@@ -23,27 +23,10 @@ Here are some ideas to get you started:
 ![Resume](./Apoorv Pathak - Data Scientist Intern.pdf)
 
 ### Language:
-<table style="width: 80%">
-  <tr>
-    <img src = './Logo/VS Code.png' alt = 'VS Code' width = '30' height = '30'>
-    <img src = './Logo/Python.png' alt = 'Python' width = '30' height = '30'>
-    <img src = './Logo/NumPy.png' alt = 'NumPy' width = '30' height = '30'>
-    <img src = './Logo/Pandas.svg' alt = 'Pandas' width = '30' height = '30'>
-    <img src = './Logo/MS Power BI.png' alt = 'MS Power BI' width = '30' height = '30'>
-    <img src = './Logo/MS Excel.png' alt = 'MS Excel' width = '30' height = '30'>
-    <img src = './Logo/MS Powerpoint.png' alt = 'MS Powerpoint' width = '30' height = '30'>
-    <img src = './Logo/Keras.svg' alt = 'Keras' width = '30' height = '30'>
-    <img src = './Logo/sklearn.svg' alt = 'Sklearn' width = '30' height = '30'>
-    <img src = './Logo/MySQL.png' alt = 'MySQL' width = '30' height = '30'>
-    <img src = './Logo/PostgreSQL.png' alt = 'PostgreSQL' width = '30' height = '30'>
-    <img src = './Logo/Figma.png' alt = 'Figma' width = '30' height = '30'>
-    <img src = './Logo/Canva.png' alt = 'Canva' width = '30' height = '30'>
-    <img src = './Logo/Django.png' alt = 'Django' width = '30' height = '30'>
-    <img src = './Logo/Java.png' alt = 'Java' width = '30' height = '30'>
-    <img src = './Logo/HTML.png' alt = 'HTML' width = '30' height = '30'>
-    <img src = './Logo/CSS.png' alt = 'CSS' width = '30' height = '30'>
-  </tr>
-</table>
+<img src = './Logo/VS Code.png' alt = 'VS Code' width = '30' height = '30'> <img src = './Logo/Python.png' alt = 'Python' width = '30' height = '30'> <img src = './Logo/NumPy.png' alt = 'NumPy' width = '30' height = '30'> <img src = './Logo/Pandas.svg' alt = 'Pandas' width = '30' height = '30'> <img src = './Logo/MS Power BI.png' alt = 'MS Power BI' width = '30' height = '30'> <img src = './Logo/MS Excel.png' alt = 'MS Excel' width = '30' height = '30'> <img src = './Logo/MS Powerpoint.png' alt = 'MS Powerpoint' width = '30' height = '30'> <img src = './Logo/Keras.svg' alt = 'Keras' width = '30' height = '30'> <img src = './Logo/sklearn.svg' alt = 'Sklearn' width = '30' height = '30'> <img src = './Logo/MySQL.png' alt = 'MySQL' width = '30' height = '30'> <img src = './Logo/PostgreSQL.png' alt = 'PostgreSQL' width = '30' height = '30'> <img src = './Logo/Figma.png' alt = 'Figma' width = '30' height = '30'>
+<img src = './Logo/Canva.png' alt = 'Canva' width = '30' height = '30'> <img src = './Logo/Django.png' alt = 'Django' width = '30' height = '30'>
+<img src = './Logo/Java.png' alt = 'Java' width = '30' height = '30'> <img src = './Logo/HTML.png' alt = 'HTML' width = '30' height = '30'>
+<img src = './Logo/CSS.png' alt = 'CSS' width = '30' height = '30'>
 
 ### <img src = './Logo/Passion.gif' alt = 'Passion' width = '15' height = '15'>Interests:
 1. **Book Reading**(<a href = 'https://www.goodreads.com/user/show/164208181-apoorv-gunjan-pathak'>goodreads</a>)
