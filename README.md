@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### <img src = './Logo/Passion.gif' alt = 'Passion' width = '20' height = '20'> Interests:
 1. **Book Reading**(<a href = 'https://www.goodreads.com/user/show/164208181-apoorv-gunjan-pathak'>goodreads</a>)
-2. **Article Writing**
+2. **Article Writing**(<a href = 'https://medium.com/@apoorvnpathak'>Medium</a>)
 3. **Gym**
 4. **Music**
 
