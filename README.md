@@ -1,6 +1,6 @@
 ## Hello Everyonee, I'm. APOORV PATHAK... 👋👋
 
-<h2 align = 'center'>A Passionate Economics💰, Machine Learning💻, & Data Science Learner🧑‍🎓!!</h2>
+<h3 align = 'center'>A Passionate Economics💰, Machine Learning💻, & Data Science Learner🧑‍🎓!!</h3>
 
 <p align = 'center'>
   <img src = './Logo/Computer Developer.gif' alt = 'Apoorv Pathak' width = '400' height = '400'>
