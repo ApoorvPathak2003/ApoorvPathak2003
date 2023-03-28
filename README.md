@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 4. **Music**
 
 ### <img src = './Logo/Link.png' alt = 'Connect' width = '15' height = '15'>Connect Me:
-1. Medium <a href = 'https://medium.com/@apoorvnpathak'><img src = './Medium.png' alt = 'Apoorv Pathak - Medium' width = '15' height = '15'></a>
+1. Medium <a href = 'https://medium.com/@apoorvnpathak'><img src = './Logo/Medium.png' alt = 'Apoorv Pathak - Medium' width = '15' height = '15'></a>
 2. LinkedIn <a href = 'https://www.linkedin.com/in/apoorv-pathak-a3b1931ba/'><img src = './Logo/LinkedIn.png' alt = 'Apoorv Pathak - LinkedIn' width = '15' height = '15'></a>
 3. Quora <a href = 'https://www.quora.com/profile/Apoorv-Gunjan-Pathak'><img src = './Logo/Quora.png' alt = 'Apoorv Pathak - Quora' width = '15' height = '15'></a>
 3. Twitter <a href = 'https://twitter.com/ApoorvPathak20'><img src = './Logo/twitter.png' alt = 'Apoorv Pathak - Twitter' width = '20' height = '20'></a>
