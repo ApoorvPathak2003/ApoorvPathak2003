@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Do you know why computer language's are difficult to understand? Because it was written by a woman named Ada Lovelace.
 
 ### Language:
-![GitHub Top Language](https://img.shields.io/github/languages/top/ApoorvPathak2003/Anti-Money-Laundetring-System)
-![GitHub Top Language](https://img.shields.io/github/languages/top/ApoorvPathak2003/Business-Intelligence-Power-BI-)
+![GitHub Top Language](https://img.shields.io/github/languages/top/ApoorvPathak2003/Anti-Money-Laundetring-System.svg)
 
 ### <img src = './Passion.gif' alt = 'Passion' width = '15' height = '15'>Interests:
 1. **Book Reading**(<a href = 'https://www.goodreads.com/user/show/164208181-apoorv-gunjan-pathak'>goodreads</a>)
