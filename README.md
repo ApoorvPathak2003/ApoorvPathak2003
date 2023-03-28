@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 3. Quora <a href = 'https://www.quora.com/profile/Apoorv-Gunjan-Pathak'><img src = './Logo/Quora.png' alt = 'Apoorv Pathak - Quora' width = '15' height = '15'></a>
 4. Twitter <a href = 'https://twitter.com/ApoorvPathak20'><img src = './Logo/Twitter.png' alt = 'Apoorv Pathak - Twitter' width = '20' height = '20'></a>
 5. Instagram <a href = 'https://www.instagram.com/apoorv__pathak/'><img src = './Logo/instagram.png' alt = 'Apoorv Pathak - Instagram' width = '20' height = '20'></a>
-6. Facebook <a href = 'https://www.facebook.com/apoorv.pathak.1675/')><img src = './Logo/facebook.png' alt = 'Apoorv Pathak - Facebook' width = '20' height = '20'></a>
+6. Facebook <a href = 'https://www.facebook.com/apoorv.pathak.1675/'><img src = './Logo/facebook.png' alt = 'Apoorv Pathak - Facebook' width = '20' height = '20'></a>
