@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=ApoorvPathak2003)
 
-### Know about my experience - [Resume](./Apoorv Pathak - Data Scientist Intern.pdf)
+### Know about my experience 😎😎
+![Resume](./Apoorv Pathak - Data Scientist Intern.pdf)
 
 ### Language:
+- Python
 ![GitHub Top Language](https://img.shields.io/github/languages/top/ApoorvPathak2003/Market-Basket-Data-Analytics)
 ![GitHub Top Language](https://img.shields.io/github/languages/top/ApoorvPathak2003/RedmondPie_AI_Lab_Codes)
 ![GitHub Top Language](https://img.shields.io/github/languages/top/ApoorvPathak2003/DevOps)
