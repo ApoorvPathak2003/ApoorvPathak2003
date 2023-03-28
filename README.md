@@ -1,6 +1,6 @@
 ## Hello Everyonee, I am... 👋👋
 
-![Apoorv Pathak](./Apoorv Pathak.png)
+<img src = './Apoorv Pathak.png' alt = 'Apoorv Pathak' width = '100' height = '100'>
 
 <!--
 **ApoorvPathak2003/ApoorvPathak2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Do you know why computer language's are difficult to understand? Because it was written by a woman named Ada Lovelace.
 
 
-I am also interested in book reading and article writing. You can connect me on [![Apoorv Pathak - Medium](./Medium.png)](https://medium.com/@apoorvnpathak) Medium to read my latest articles.
+I am also interested in book reading and article writing. You can connect me on <a href = 'https://medium.com/@apoorvnpathak'><img src = './Medium.png' alt = 'Apoorv Pathak - Medium' width = '100' height = '100'></a> Medium to read my latest articles.
 
-You can also connect me via my [![Apoorv Pathak - LinkedIn](./LinkedIn.png)](https://www.linkedin.com/in/apoorv-pathak-a3b1931ba/) LinkedIn profile.
+You can also connect me via my <a href = 'https://www.linkedin.com/in/apoorv-pathak-a3b1931ba/'><img src = './LinkedIn.png' alt = 'Apoorv Pathak - LinkedIn' width = '100' height = '100'></a> LinkedIn profile.
