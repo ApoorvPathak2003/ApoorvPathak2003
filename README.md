@@ -11,13 +11,13 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Data Science projects.
-- 🌱 I’m currently learning Deep Learning, and Model Deployment.
+- 🔭 I’m currently working on an NLP projects.
+- 🌱 I’m currently learning Deep Learning.
 - 👯 I’m looking to collaborate with someone on ML and Data Science projects.
-- 🤔 I’m currently looking for an internship oppurtunity in the Data Science domain; I have previously worked in a company as a data scientist intern. 
-- 📫 Email: apoorvgunjanpathak@gmail.com
+- 🤔 I’m currently looking for an internship oppurtunity in the Data Science domain; I have previously worked at ***INNODATATICS*** as a data scientist intern. 
+- 📫 Email-ID: apoorvgunjanpathak@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Do you know why computer language's are difficult to understand? Because it was written by a woman named Ada Lovelace.
+- ⚡ Fun Fact: Do you know why computer language's are difficult to understand? Because it was written by a woman named Ada Lovelace.
 
 ![](https://komarev.com/ghpvc/?username=ApoorvPathak2003)
 
