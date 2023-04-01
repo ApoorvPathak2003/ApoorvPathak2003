@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 ### Know about my experience 😎:
 [Resume](https://github.com/ApoorvPathak2003/ApoorvPathak2003/blob/main/Apoorv%20Pathak%20-%20Data%20Scientist%20Intern.pdf)
+
 [INNODATATICS - Experience Letter](https://github.com/ApoorvPathak2003/ApoorvPathak2003/blob/main/INNODATATICS%20-%20Internship%20Experience%20Letter.pdf)
 
 ### Language & Tools:
