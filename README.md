@@ -11,10 +11,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on an NLP projects.
+- 🔭 I’m currently working on NLP projects.
 - 🌱 I’m currently learning Deep Learning.
 - 👯 I’m looking to collaborate with someone on ML and Data Science projects.
-- 🤔 I’m currently looking for an internship oppurtunity in the Data Science domain; I have previously worked at ***INNODATATICS*** as a data scientist intern. 
+- 🤔 I’m currently looking for an internship opportunity in the Data Science domain; I have previously worked at ***INNODATATICS*** as a data scientist intern. 
 - 📫 Email-ID: apoorvgunjanpathak@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun Fact: Do you know why computer language's are difficult to understand? Because it was written by a woman named Ada Lovelace.
