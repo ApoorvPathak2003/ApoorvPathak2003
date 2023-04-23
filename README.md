@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=ApoorvPathak2003)
 
 ### Know about my experience 😎:
-[Apoorv Pathak - Data Science Intern Resume](https://github.com/ApoorvPathak2003/ApoorvPathak2003/blob/main/Apoorv%20Pathak%20-%20Curriculum%20Scientist%20Intern.pdf)
+[Apoorv Pathak - Curriculum Vitae](https://github.com/ApoorvPathak2003/ApoorvPathak2003/blob/main/Apoorv%20Pathak%20-%20Curriculum%20Vitae.pdf)
 
 [INNODATATICS - Experience Letter](https://github.com/ApoorvPathak2003/ApoorvPathak2003/blob/main/INNODATATICS%20-%20Internship%20Vitae.pdf)
 
