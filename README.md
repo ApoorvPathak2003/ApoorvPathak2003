@@ -1,4 +1,4 @@
-## Hello Everyonee, I'm. APOORV PATHAK... 👋👋
+## Hello Geeks, I'm. APOORV PATHAK... 👋👋
 
 <h3 align = 'center'>A Passionate Economics💰, Machine Learning💻, & Data Science Learner🧑‍🎓!!</h3>
 
