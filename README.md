@@ -15,16 +15,18 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Deep Learning.
 - 👯 I’m looking to collaborate with someone on ML and Data Science projects.
 - 🤔 I’m currently looking for an internship opportunity in the Data Science domain; I have previously worked at ***INNODATATICS*** as a data scientist intern. 
-- 📫 Email-ID: apoorvgunjanpathak@gmail.com
+- 📧 Email-ID: apoorvgunjanpathak@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun Fact: Do you know why computer language's are difficult to understand? Because it was written by a woman named Ada Lovelace.
 
 ![](https://komarev.com/ghpvc/?username=ApoorvPathak2003)
 
 ### Know about my experience 😎:
-[Apoorv Pathak - Curriculum Vitae](https://github.com/ApoorvPathak2003/ApoorvPathak2003/blob/main/Apoorv%20Pathak%20-%20Curriculum%20Vitae.pdf)
+📝 [Apoorv Pathak - Curriculum Vitae](https://github.com/ApoorvPathak2003/ApoorvPathak2003/blob/main/Apoorv%20Pathak%20-%20Curriculum%20Vitae.pdf)
 
-[INNODATATICS - Experience Letter](https://github.com/ApoorvPathak2003/ApoorvPathak2003/blob/main/INNODATATICS%20-%20Internship%20Vitae.pdf)
+🖹 [Apoorv Pathak - Data Science & Analyst Resume](https://github.com/ApoorvPathak2003/ApoorvPathak2003/blob/main/Apoorv%20Pathak%20-%20Data%20Science%20%26%20Analyst%20Resume.pdf)
+
+🏆 [INNODATATICS - Experience Letter](https://github.com/ApoorvPathak2003/ApoorvPathak2003/blob/main/INNODATATICS%20-%20Internship%20Vitae.pdf)
 
 ### Language & Tools:
 <img src = './Logo/VS Code.png' alt = 'VS Code' width = '30' height = '30'>   <img src = './Logo/Python.png' alt = 'Python' width = '30' height = '30'>   <img src = './Logo/NumPy.png' alt = 'NumPy' width = '50' height = '30'>   <img src = './Logo/Pandas.svg' alt = 'Pandas' width = '30' height = '40'>   <img src = './Logo/MS Power BI.png' alt = 'MS Power BI' width = '40' height = '30'>   <img src = './Logo/MS Excel.png' alt = 'MS Excel' width = '30' height = '30'>   <img src = './Logo/MS Powerpoint.png' alt = 'MS Powerpoint' width = '30' height = '30'>   <img src = './Logo/Keras.svg' alt = 'Keras' width = '30' height = '30'>   <img src = './Logo/sklearn.svg' alt = 'Sklearn' width = '30' height = '30'>   <img src = './Logo/MySQL.png' alt = 'MySQL' width = '30' height = '30'>   <img src = './Logo/PostgreSQL.png' alt = 'PostgreSQL' width = '30' height = '30'>   <img src = './Logo/Figma.png' alt = 'Figma' width = '30' height = '30'>   <img src = './Logo/Canva.png' alt = 'Canva' width = '30' height = '30'>   <img src = './Logo/Django.png' alt = 'Django' width = '30' height = '30'>  <img src = './Logo/Git.png' alt = 'Git' width = '30' height = '30'>   <img src = './Logo/Java.png' alt = 'Java' width = '30' height = '30'>   <img src = './Logo/C.png' alt = 'C' width = '30' height = '30'>   <img src = './Logo/HTML.png' alt = 'HTML' width = '30' height = '30'>   <img src = './Logo/CSS.png' alt = 'CSS' width = '30' height = '30'>
