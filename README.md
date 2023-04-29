@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### Know about my experience 😎:
 📝 [Apoorv Pathak - Curriculum Vitae](https://github.com/ApoorvPathak2003/ApoorvPathak2003/blob/main/Apoorv%20Pathak%20-%20Curriculum%20Vitae.pdf)
 
-🖹 [Apoorv Pathak - Data Science & Analyst Resume](https://github.com/ApoorvPathak2003/ApoorvPathak2003/blob/main/Apoorv%20Pathak%20-%20Data%20Science%20%26%20Analyst%20Resume.pdf)
+🖹 [Apoorv Pathak Intern Resume (https://github.com/ApoorvPathak2003/ApoorvPathak2003/blob/main/Apoorv%20Pathak%20Internship%20Resume.pdf)
 
 🏆 [INNODATATICS - Experience Letter](https://github.com/ApoorvPathak2003/ApoorvPathak2003/blob/main/INNODATATICS%20-%20Internship%20Vitae.pdf)
 
