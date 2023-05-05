@@ -1,6 +1,6 @@
 ## Hello Geeks, I'm. APOORV PATHAK... 👋👋
 
-<h3 align = 'center'>A Passionate Economics💰, Machine Learning💻, & Data Science Learner🧑‍🎓!!</h3>
+<h3 align = 'center'>A Computer Science Student 💻, Data Science Learner 🧑‍🎓, & Passionate Economics Lover💰!!</h3>
 
 <p align = 'center'>
   <img src = './Logo/Computer Developer.gif' alt = 'Apoorv Pathak' width = '400' height = '400'>
@@ -11,20 +11,20 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on NLP projects.
-- 🌱 I’m currently learning Deep Learning.
-- 👯 I’m looking to collaborate with someone on ML and Data Science projects.
-- 🤔 I’m currently looking for an internship opportunity in the Data Science domain; I have previously worked at ***INNODATATICS*** as a data scientist intern. 
+- 🌍 I'm based in Gurugram, Haryana, India.
+- 🧠 I'm learning **Mathematics**, **Data Science**, **Data Structures & Algorithms**.
+- 👯 I’m looking to collaborate with someone on Data Science projects.
+- 🌱 I am currently interning at ***Zoplar***(Healthcare Product Supplier). 
+- 🤔 I have experience of 3 months data scientist intern at ***INNODATATICS***.
 - 📧 Email-ID: apoorvgunjanpathak@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun Fact: Do you know why computer language's are difficult to understand? Because it was written by a woman named Ada Lovelace.
 
 ![](https://komarev.com/ghpvc/?username=ApoorvPathak2003)
 
 ### Know about my experience 😎:
-📝 [Apoorv Pathak - Curriculum Vitae](https://github.com/ApoorvPathak2003/ApoorvPathak2003/blob/main/Apoorv%20Pathak%20-%20Curriculum%20Vitae.pdf)
+📝 [Curriculum Vitae(CV)](https://github.com/ApoorvPathak2003/ApoorvPathak2003/blob/main/Apoorv%20Pathak%20-%20Curriculum%20Vitae.pdf)
 
-🖹 [Apoorv Pathak Intern Resume](https://github.com/ApoorvPathak2003/ApoorvPathak2003/blob/main/Apoorv%20Pathak%20Internship%20Resume.pdf)
+🖹 [Resume](https://github.com/ApoorvPathak2003/ApoorvPathak2003/blob/main/Apoorv%20Pathak%20Internship%20Resume.pdf)
 
 🏆 [INNODATATICS - Experience Letter](https://github.com/ApoorvPathak2003/ApoorvPathak2003/blob/main/INNODATATICS%20-%20Internship%20Vitae.pdf)
 
@@ -38,9 +38,15 @@ Here are some ideas to get you started:
 4. **Music**
 
 ### <img src = './Logo/Link.png' alt = 'Connect' width = '20' height = '20'> Connect Me:
-1. Medium <a href = 'https://medium.com/@apoorvnpathak'><img src = './Logo/Medium.png' alt = 'Apoorv Pathak - Medium' width = '15' height = '15'></a>
-2. LinkedIn <a href = 'https://www.linkedin.com/in/apoorv-pathak-a3b1931ba/'><img src = './Logo/LinkedIn.png' alt = 'Apoorv Pathak - LinkedIn' width = '15' height = '15'></a>
-3. Quora <a href = 'https://www.quora.com/profile/Apoorv-Gunjan-Pathak'><img src = './Logo/Quora.png' alt = 'Apoorv Pathak - Quora' width = '15' height = '15'></a>
-4. Twitter <a href = 'https://twitter.com/ApoorvPathak20'><img src = './Logo/Twitter.png' alt = 'Apoorv Pathak - Twitter' width = '20' height = '20'></a>
-5. Instagram <a href = 'https://www.instagram.com/apoorv__pathak/'><img src = './Logo/instagram.png' alt = 'Apoorv Pathak - Instagram' width = '20' height = '20'></a>
-6. Facebook <a href = 'https://www.facebook.com/apoorv.pathak.1675/'><img src = './Logo/facebook.png' alt = 'Apoorv Pathak - Facebook' width = '20' height = '20'></a>
+<p align="left">  
+                      <a href="https://www.facebook.com/apoorv.pathak.1675/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>          
+                      <a href="https://www.github.com/ApoorvPathak2003" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+                      <a href="http://www.instagram.com/apoorv__pathak/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+                      <a href="https://www.linkedin.com/in/apoorv-pathak-a3b1931ba/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                      <a href="http://www.medium.com/httpscom/@apoorvnpathak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a>
+                      <a href="https://www.stackoverflow.com/users/15503382/apoorv-pathak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+                      <a href="https://www.twitter.com/ApoorvPathak20" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/ApoorvPathak2003"><img src="https://github-readme-stats.vercel.app/api?username=ApoorvPathak2003&show_icons=true&hide=prs,&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="ApoorvPathak2003's GitHub stats" /></a><a
+                      href="http://www.github.com/ApoorvPathak2003"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=ApoorvPathak2003&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/ApoorvPathak2003"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ApoorvPathak2003&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/ApoorvPathak2003" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApoorvPathak2003&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/ApoorvPathak2003/https://github.com/ApoorvPathak2003/Market-Basket-Data-Analytics" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ApoorvPathak2003&repo=https://github.com/ApoorvPathak2003/Market-Basket-Data-Analytics&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/ApoorvPathak2003/https://github.com/ApoorvPathak2003/Anti-Money-Laundering-System/" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ApoorvPathak2003&repo=https://github.com/ApoorvPathak2003/Anti-Money-Laundering-System/&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
