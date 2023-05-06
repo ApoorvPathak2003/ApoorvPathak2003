@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🧠 I'm learning **Mathematics**, **Data Science**, **Data Structures & Algorithms**.
 - 👯 I’m looking to collaborate with someone on Data Science projects.
 - 🌱 I am currently interning at ***Zoplar***(Healthcare Product Supplier). 
-- 🤔 I have experience of 3 months data scientist intern at ***INNODATATICS***.
+- 🤔 I have experience of 3 months as a data scientist intern at ***INNODATATICS***.
 - 📧 Email-ID: apoorvgunjanpathak@gmail.com
 - ⚡ Fun Fact: Do you know why computer language's are difficult to understand? Because it was written by a woman named Ada Lovelace.
 
