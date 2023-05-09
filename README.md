@@ -11,8 +11,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🌍 I'm located in Gurugram, Haryana, India.
-- 🧠 I'm learning **Mathematics**, **Data Science**, **Data Structures & Algorithms**.
+- 🧠 I'm currently learning **Mathematics**, **Data Science**, **Data Structures & Algorithms**.
 - 👯 I’m looking to collaborate with someone on Data Science projects.
 - 🌱 I am currently interning as a **Strategy Intern** at ***Zoplar***(Healthcare Product Supplier). 
 - 🤔 I have experience of 3 months as a **Data Science Intern** at ***INNODATATICS***.
