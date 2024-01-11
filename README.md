@@ -1,6 +1,6 @@
 ## Hello Geeks, I'm. APOORV PATHAK... 👋👋
 
-<h3 align = 'center'>A Computer Science Student 💻, Data Science Learner 🧑‍🎓, & Passionate Economics Lover💰!!</h3>
+<h3 align = 'center'>A Computer Science Student 💻, Data Science Learner 🧑‍🎓, Geopolitics Enthuse🌎, & Economics Lover💰!!</h3>
 
 <p align = 'center'>
   <img src = './Logo/Computer Developer.gif' alt = 'Apoorv Pathak' width = '400' height = '400'>
@@ -10,8 +10,8 @@
 **ApoorvPathak2003/ApoorvPathak2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-
-- 🧠 I'm currently learning **Data Structures & Algorithms**, **Data Science**, & **Statistics**.
+- 🧑🏽‍💼 SDE intern @Cognam Technologies Pvt. Ltd.
+- 🧠 I'm currently learning **Java**, & **Spring Boot**.
 - 🌱 I have experience of 3 months as a **Data Science Intern** at ***INNODATATICS*** & of 3 months as a **Business Analyst Intern** at ***Zoplar***.
 - 📧 Email-ID: apoorvgunjanpathak@gmail.com
 - ⚡ Fun Fact: Do you know why computer languages are difficult to understand? Because it was written by a woman named Ada Lovelace.
